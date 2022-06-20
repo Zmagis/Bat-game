@@ -1,0 +1,12 @@
+build/
+node_modules/
+package-lock.json
+package.json
+gulpfile.js
+readme.md
+public_html/
+/resources/assets/js/vendors
+composer.json
+composer.lock
+resources/assets/react/routes.json
+/resources/docs
